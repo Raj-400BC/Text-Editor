@@ -1,0 +1,23 @@
+/* Import the full Tailwind CSS file */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+/* body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.textarea
+{ 
+    background-color: aqua;
+  height: 400px;
+ position:relative;
+ width: 100vw;
+}
+.text{
+    width: 100vw;
+    height: ;
+} */
